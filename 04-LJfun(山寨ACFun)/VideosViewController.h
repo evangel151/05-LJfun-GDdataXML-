@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  VideosViewController.h
 //  04-LJfun(山寨ACFun)
 //
 //  Created by  a on 16/3/31.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface VideosViewController : UITableViewController
 
 @end
-
